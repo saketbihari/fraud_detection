@@ -5,8 +5,11 @@ b=7
 def sum(a,b):
 	c=a+b
 	return c
+
 print("sum function")
+
 def multiply(a,b):
 	d=a*b
 	return d
-print("multiply function")
+
+print("multiply function1")
